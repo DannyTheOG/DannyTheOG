@@ -15,4 +15,4 @@ Hi there 👋 , you've reached [Daniel Hammond](https://www.linkedin.com/in/dani
 <!-- - 🌱 I’m currently learning ... -->
 
 
-👯 I’m looking to collaborate on any interesting Typescript/Javascript project.
+👯 I’m looking to collaborate on any interesting Java project.
