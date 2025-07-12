@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there 👋 , you've reached [Daniel Hammond](https://www.linkedin.com/in/daniel-hammond-jr-009987163/). While you are here, why not hit the follow button. I promise I have something fun on the stove 😁
 
-## I'm a backend java developer with a knack for devops
+## I'm a fullstack developer with a knack for devops
 
 
 
